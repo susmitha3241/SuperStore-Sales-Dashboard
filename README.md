@@ -40,10 +40,6 @@ The dataset contains sales transaction details used for analyzing business perfo
 3. Creating KPIs and Measures using DAX
 4. Building Interactive Sales Dashboard using Power BI
 
-## Dashboard Preview
-
-![Super Store Sales Dashboard](Dashboard.png)
-
 ## Dashboard KPIs
 
 * Total Sales
